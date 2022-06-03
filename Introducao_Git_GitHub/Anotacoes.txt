@@ -1,0 +1,12 @@
+Link para download do Git: 
+https://git-scm.com/downloads
+
+Gerar uma nova chave SSH e adicioná-la ao ssh-agent :
+https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+Adicionar uma nova chave SSH à sua conta do GitHub:
+https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+Lista de comandos úteis do GIT :
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
